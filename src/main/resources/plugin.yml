@@ -1,0 +1,5 @@
+name: InveryalAB
+version: ${project.version}
+main: me.darkboy.inveryalab.InveryalAB
+authors: [NotStxnks_]
+description: Action Bar sexy
